@@ -507,13 +507,12 @@ include_once("templates/header.php");
 
 <header>
     <div class="container-fluid">
-        <div class="row py-3 border-bottom">
-
+        <div class="row py-3 border-bottom justify-content-between">
             <div
                 class="col-sm-4 col-lg-2 text-center text-sm-start d-flex gap-3 justify-content-center justify-content-md-start">
                 <div class="d-flex align-items-center my-3 my-sm-0">
                     <a href="index.html">
-                        <img src="src/vendor/bootstrap/images/logo.svg" alt="logo" class="img-fluid">
+                        <!-- <img src="src/vendor/bootstrap/images/logo.svg" alt="logo" class="img-fluid"> -->
                     </a>
                 </div>
                 <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas"
@@ -523,7 +522,6 @@ include_once("templates/header.php");
                     </svg>
                 </button>
             </div>
-
             <div class="col-sm-6 offset-sm-2 offset-md-0 col-lg-4">
                 <div class="search-bar row bg-light p-2 rounded-4">
                     <div class="col-md-4 d-none d-md-block">
@@ -535,7 +533,7 @@ include_once("templates/header.php");
                         </select>
                     </div>
                     <div class="col-11 col-md-7">
-                        <form id="search-form" class="text-center" action="index.html" method="post">
+                        <form id="search-form" class="text-center w-100" action="index.html" method="post">
                             <input type="text" class="form-control border-0 bg-transparent"
                                 placeholder="Search for more than 20,000 products">
                         </form>
@@ -548,34 +546,6 @@ include_once("templates/header.php");
                     </div>
                 </div>
             </div>
-
-            <div class="col-lg-4">
-                <ul
-                    class="navbar-nav list-unstyled d-flex flex-row gap-3 gap-lg-5 justify-content-center flex-wrap align-items-center mb-0 fw-bold text-uppercase text-dark">
-                    <li class="nav-item active">
-                        <a href="index.html" class="nav-link">Home</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle pe-3" role="button" id="pages" data-bs-toggle="dropdown"
-                            aria-expanded="false">Pages</a>
-                        <ul class="dropdown-menu border-0 p-3 rounded-0 shadow" aria-labelledby="pages">
-                            <li><a href="index.html" class="dropdown-item">About Us </a></li>
-                            <li><a href="index.html" class="dropdown-item">Shop </a></li>
-                            <li><a href="index.html" class="dropdown-item">Single Product </a></li>
-                            <li><a href="index.html" class="dropdown-item">Cart </a></li>
-                            <li><a href="index.html" class="dropdown-item">Checkout </a></li>
-                            <li><a href="index.html" class="dropdown-item">Blog </a></li>
-                            <li><a href="index.html" class="dropdown-item">Single Post </a></li>
-                            <li><a href="index.html" class="dropdown-item">Styles </a></li>
-                            <li><a href="index.html" class="dropdown-item">Contact </a></li>
-                            <li><a href="index.html" class="dropdown-item">Thank You </a></li>
-                            <li><a href="index.html" class="dropdown-item">My Account </a></li>
-                            <li><a href="index.html" class="dropdown-item">404 Error </a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-
             <div
                 class="col-sm-8 col-lg-2 d-flex gap-5 align-items-center justify-content-center justify-content-sm-end">
                 <ul class="d-flex justify-content-end list-unstyled m-0">
@@ -588,8 +558,16 @@ include_once("templates/header.php");
                     </li>
                     <li>
                         <a href="#" class="p-2 mx-1">
-                            <svg width="24" height="24">
-                                <use xlink:href="#wishlist"></use>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round"
+                                class="icon icon-tabler icons-tabler-outline icon-tabler-message-dots">
+                                <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                <path d="M12 11v.01" />
+                                <path d="M8 11v.01" />
+                                <path d="M16 11v.01" />
+                                <path
+                                    d="M18 4a3 3 0 0 1 3 3v8a3 3 0 0 1 -3 3h-5l-5 3v-3h-2a3 3 0 0 1 -3 -3v-8a3 3 0 0 1 3 -3z" />
                             </svg>
                         </a>
                     </li>
@@ -613,32 +591,32 @@ include_once("templates/header.php");
     <div class="container-lg">
         <div class="row">
             <div class="col-lg-6 pt-5 mt-5">
-                <h2 class="display-1 ls-1"><span class="fw-bold text-primary">Organic</span> Foods at your <span
-                        class="fw-bold">Doorsteps</span></h2>
-                <p class="fs-4">Dignissim massa diam elementum.</p>
+                <h2 class="display-1 ls-1"><span class="fw-bold text-primary">Pesananku</span> pengantar pesanan siap di
+                    <span class="fw-bold">Depan Pintu.</span>
+                </h2>
+                <p class="fs-4">Kini dengan pesananku segala hal menjadi praktis!</p>
                 <div class="d-flex gap-3">
-                    <a href="#" class="btn btn-primary text-uppercase fs-6 rounded-pill px-4 py-3 mt-3">Start
-                        Shopping</a>
-                    <a href="#" class="btn btn-dark text-uppercase fs-6 rounded-pill px-4 py-3 mt-3">Join Now</a>
+                    <a href="#" class="btn btn-primary text-uppercase fs-6 rounded-pill px-4 py-3 mt-3">Mulai
+                        Memesan</a>
                 </div>
                 <div class="row my-5">
                     <div class="col">
                         <div class="row text-dark">
                             <div class="col-auto">
-                                <p class="fs-1 fw-bold lh-sm mb-0">14k+</p>
+                                <p class="fs-1 fw-bold lh-sm mb-0">5</p>
                             </div>
                             <div class="col">
-                                <p class="text-uppercase lh-sm mb-0">Product Varieties</p>
+                                <p class="text-uppercase lh-sm mb-0">Variasi Produk</p>
                             </div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="row text-dark">
                             <div class="col-auto">
-                                <p class="fs-1 fw-bold lh-sm mb-0">50k+</p>
+                                <p class="fs-1 fw-bold lh-sm mb-0">1k+</p>
                             </div>
                             <div class="col">
-                                <p class="text-uppercase lh-sm mb-0">Happy Customers</p>
+                                <p class="text-uppercase lh-sm mb-0">Produk Terbaik</p>
                             </div>
                         </div>
                     </div>
@@ -648,7 +626,7 @@ include_once("templates/header.php");
                                 <p class="fs-1 fw-bold lh-sm mb-0">10+</p>
                             </div>
                             <div class="col">
-                                <p class="text-uppercase lh-sm mb-0">Store Locations</p>
+                                <p class="text-uppercase lh-sm mb-0">Penjual Produk</p>
                             </div>
                         </div>
                     </div>
@@ -661,13 +639,21 @@ include_once("templates/header.php");
                 <div class="card border-0 bg-primary rounded-0 p-4 text-light">
                     <div class="row">
                         <div class="col-md-3 text-center">
-                            <svg width="60" height="60">
-                                <use xlink:href="#fresh"></use>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round"
+                                class="icon icon-tabler icons-tabler-outline icon-tabler-package">
+                                <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                <path d="M12 3l8 4.5l0 9l-8 4.5l-8 -4.5l0 -9l8 -4.5" />
+                                <path d="M12 12l8 -4.5" />
+                                <path d="M12 12l0 9" />
+                                <path d="M12 12l-8 -4.5" />
+                                <path d="M16 5.25l-8 4.5" />
                             </svg>
                         </div>
                         <div class="col-md-9">
                             <div class="card-body p-0">
-                                <h5 class="text-light">Fresh from farm</h5>
+                                <h5 class="text-light">Produk Jaminan Asli</h5>
                                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipi elit.</p>
                             </div>
                         </div>
@@ -678,13 +664,17 @@ include_once("templates/header.php");
                 <div class="card border-0 bg-secondary rounded-0 p-4 text-light">
                     <div class="row">
                         <div class="col-md-3 text-center">
-                            <svg width="60" height="60">
-                                <use xlink:href="#organic"></use>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24"
+                                fill="currentColor"
+                                class="icon icon-tabler icons-tabler-filled icon-tabler-shield-check">
+                                <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                <path
+                                    d="M11.998 2l.118 .007l.059 .008l.061 .013l.111 .034a.993 .993 0 0 1 .217 .112l.104 .082l.255 .218a11 11 0 0 0 7.189 2.537l.342 -.01a1 1 0 0 1 1.005 .717a13 13 0 0 1 -9.208 16.25a1 1 0 0 1 -.502 0a13 13 0 0 1 -9.209 -16.25a1 1 0 0 1 1.005 -.717a11 11 0 0 0 7.531 -2.527l.263 -.225l.096 -.075a.993 .993 0 0 1 .217 -.112l.112 -.034a.97 .97 0 0 1 .119 -.021l.115 -.007zm3.71 7.293a1 1 0 0 0 -1.415 0l-3.293 3.292l-1.293 -1.292l-.094 -.083a1 1 0 0 0 -1.32 1.497l2 2l.094 .083a1 1 0 0 0 1.32 -.083l4 -4l.083 -.094a1 1 0 0 0 -.083 -1.32z" />
                             </svg>
                         </div>
                         <div class="col-md-9">
                             <div class="card-body p-0">
-                                <h5 class="text-light">100% Organic</h5>
+                                <h5 class="text-light">100% Diproses</h5>
                                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipi elit.</p>
                             </div>
                         </div>
@@ -695,13 +685,22 @@ include_once("templates/header.php");
                 <div class="card border-0 bg-danger rounded-0 p-4 text-light">
                     <div class="row">
                         <div class="col-md-3 text-center">
-                            <svg width="60" height="60">
-                                <use xlink:href="#delivery"></use>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round"
+                                class="icon icon-tabler icons-tabler-outline icon-tabler-heart-handshake">
+                                <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                <path
+                                    d="M19.5 12.572l-7.5 7.428l-7.5 -7.428a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572" />
+                                <path
+                                    d="M12 6l-3.293 3.293a1 1 0 0 0 0 1.414l.543 .543c.69 .69 1.81 .69 2.5 0l1 -1a3.182 3.182 0 0 1 4.5 0l2.25 2.25" />
+                                <path d="M12.5 15.5l2 2" />
+                                <path d="M15 13l2 2" />
                             </svg>
                         </div>
                         <div class="col-md-9">
                             <div class="card-body p-0">
-                                <h5 class="text-light">Free delivery</h5>
+                                <h5 class="text-light">Pesanan Pasti Sampai</h5>
                                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipi elit.</p>
                             </div>
                         </div>
@@ -2017,9 +2016,9 @@ include_once("templates/header.php");
                 <div class="row justify-content-center">
                     <div class="col-md-5 p-3">
                         <div class="section-header">
-                            <h2 class="section-title display-5 text-light">Get 25% Discount on your first purchase</h2>
+                            <h2 class="section-title display-5 text-light">Dapatkan Bebas Biaya Admin</h2>
                         </div>
-                        <p>Just Sign Up & Register it now to become member.</p>
+                        <p>Daftar dan dapatkan bebas admin dalam sekali pembayaran.</p>
                     </div>
                     <div class="col-md-5 p-3">
                         <form>

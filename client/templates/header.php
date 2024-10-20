@@ -17,6 +17,7 @@
         integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="src/vendor/bootstrap/css/vendor.css">
     <link rel="stylesheet" type="text/css" href="src/vendor/bootstrap/css/style.css">
+    <link rel="stylesheet" href="src/vendor/bootstrap/css/styles.min.css" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -24,4 +25,3 @@
         href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
         rel="stylesheet">
 </head>
-
