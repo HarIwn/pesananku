@@ -3367,7 +3367,7 @@ include_once("templates/header.php");
 
             <div class="col-md-2 col-sm-6">
                 <div class="footer-menu">
-                    <h5 class="widget-title">Organic</h5>
+                    <h5 class="widget-title">Pesananku</h5>
                     <ul class="menu-list list-unstyled">
                         <li class="menu-item">
                             <a href="#" class="nav-link">About us</a>
@@ -3459,7 +3459,7 @@ include_once("templates/header.php");
     <div class="container-lg">
         <div class="row">
             <div class="col-md-6 copyright">
-                <p>© 2024 Organic. All rights reserved.</p>
+                <p>© 2024 Pesananku. All rights reserved.</p>
             </div>
             <div class="col-md-6 credit-link text-start text-md-end">
                 <p>Created By Kelompok -</p>
