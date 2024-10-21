@@ -314,25 +314,25 @@ include_once("templates/header.php");
                         <h6 class="my-0">Growers cider</h6>
                         <small class="text-body-secondary">Brief description</small>
                     </div>
-                    <span class="text-body-secondary">$12</span>
+                    <span class="text-body-secondary">Rp 12</span>
                 </li>
                 <li class="list-group-item d-flex justify-content-between lh-sm">
                     <div>
                         <h6 class="my-0">Fresh grapes</h6>
                         <small class="text-body-secondary">Brief description</small>
                     </div>
-                    <span class="text-body-secondary">$8</span>
+                    <span class="text-body-secondary">Rp 8</span>
                 </li>
                 <li class="list-group-item d-flex justify-content-between lh-sm">
                     <div>
                         <h6 class="my-0">Heinz tomato ketchup</h6>
                         <small class="text-body-secondary">Brief description</small>
                     </div>
-                    <span class="text-body-secondary">$5</span>
+                    <span class="text-body-secondary">Rp 5</span>
                 </li>
                 <li class="list-group-item d-flex justify-content-between">
                     <span>Total (USD)</span>
-                    <strong>$20</strong>
+                    <strong>Rp 20</strong>
                 </li>
             </ul>
 
@@ -860,8 +860,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -918,8 +918,8 @@ include_once("templates/header.php");
                                     <span>(41)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$54.00</del>
-                                    <span class="text-dark fw-semibold">$50.00</span>
+                                    <del>Rp 54.00</del>
+                                    <span class="text-dark fw-semibold">Rp 50.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -976,8 +976,8 @@ include_once("templates/header.php");
                                     <span>(32)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$14.00</del>
-                                    <span class="text-dark fw-semibold">$12.00</span>
+                                    <del>Rp 14.00</del>
+                                    <span class="text-dark fw-semibold">Rp 12.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1034,8 +1034,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1092,8 +1092,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1150,8 +1150,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1208,8 +1208,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1266,8 +1266,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1324,8 +1324,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1382,8 +1382,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1523,8 +1523,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1579,8 +1579,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1635,8 +1635,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1691,8 +1691,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1747,8 +1747,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1803,8 +1803,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1859,8 +1859,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1915,8 +1915,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -1971,8 +1971,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2103,8 +2103,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2159,8 +2159,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2215,8 +2215,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2271,8 +2271,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2327,8 +2327,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2383,8 +2383,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2439,8 +2439,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2495,8 +2495,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2551,8 +2551,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2643,8 +2643,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2699,8 +2699,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2755,8 +2755,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2811,8 +2811,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2867,8 +2867,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2923,8 +2923,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -2979,8 +2979,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -3035,8 +3035,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
@@ -3091,8 +3091,8 @@ include_once("templates/header.php");
                                     <span>(222)</span>
                                 </div>
                                 <div class="d-flex justify-content-center align-items-center gap-2">
-                                    <del>$24.00</del>
-                                    <span class="text-dark fw-semibold">$18.00</span>
+                                    <del>Rp 24.00</del>
+                                    <span class="text-dark fw-semibold">Rp 18.00</span>
                                     <span
                                         class="badge border border-dark-subtle rounded-0 fw-normal px-1 fs-7 lh-1 text-body-tertiary">10%
                                         OFF</span>
