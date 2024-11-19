@@ -29,7 +29,7 @@ if (isset($_POST['login'])) {
 
             echo "window.alert('Login Berhasil!')";
 
-            header('location: ../client/');
+            header('location: ../client/index.php');
             exit;
         } else {
             $error = "Password salah!";
