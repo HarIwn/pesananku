@@ -1,0 +1,18 @@
+{
+  "name": "pesananku",
+  "version": "1.0.0",
+  "description": "Aplikasi berbasis website, pesan antar melalui Pesananku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/HarIwn/pesananku.git"
+  },
+  "author": "kelompok 11",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
